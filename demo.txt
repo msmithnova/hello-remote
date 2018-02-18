@@ -1,1 +1,2 @@
 Add some txt on GitHub.
+Add text from local commad line using echo.
